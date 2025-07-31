@@ -1,4 +1,4 @@
-FOllow the below mentioned order to read the files.
+Follow the below mentioned order to read the files.
 
 
 ## 1. Kubernetes.md 
