@@ -7,8 +7,8 @@ Follow the below mentioned order to read the files.
 
 ## 2. Minikub-setup.md
 
-  For monolithic or a single node cluster setup, use kubectl.  
-  This file consist of how to setup a single node cluster using kubectl.  
+  For monolithic or a single node cluster setup, use Minikube.  
+  This file consist of how to setup a single node cluster using Minijube.  
   I used AWS cloud's EC2 instances for the virtual server setup.  
 
 ## 3. KOPS-Multinode-cluster-setup.md
