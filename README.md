@@ -1,8 +1,9 @@
 Follow the below mentioned order to read the files.
 
 
-## 1. Kubernetes.md 
-    Contains what is k8s, what are the topology and what problems does each topic solves.
+## 1. Kubernetes.md
+
+  Contains what is k8s, what are the topology and what problems does each topic solves.
 
 ## 2. Minikub-setup.md
 
